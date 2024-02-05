@@ -1,7 +1,7 @@
 <h2>React Calculator App</h2>
 
-Welcome to the React Calculator app repository! This calculator is built using the React framework, providing a modern and responsive user interface for performing mathematical operations.
-<h2><a href='https://sanni1244.github.io/calculator/'>Calculator app</a></h2>
+Welcome to the React Calculator app repository! This calculator is built using the React framework, providing a modern and responsive user interface for performing mathematical operations. <br/>
+<a href='https://sanni1244.github.io/calculator/'>Calculator app</a>
 
 <h3>Features:</h3>
 
