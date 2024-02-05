@@ -11,7 +11,7 @@ Welcome to the React Calculator app repository! This calculator is built using t
 
 <h3>Usage:</h3>
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/sanni1244/calculator.git
